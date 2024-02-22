@@ -1,5 +1,5 @@
 # 🌍🩺Medi-Diagnos
-![Image Alt Text](https://github.com/Keyrun1227/Hotel-Booking-Insights-Dashboard/blob/main/Visualization%20of%20Hotel%20Bookings.png)
+![Image Alt Text](https://github.com/Keyrun1227/Medi-Diagnos/blob/main/MEDI_DIAGNOS.jpeg)
 👩‍⚕️ **Medi-Diagnos**, our Django-powered brainchild designed to revolutionize healthcare. It's not just another project; it's a gateway to precise medical predictions, image-based diagnostics, and a cutting-edge multi-language medical chatbot. Imagine quick, seamless responses in any language, making healthcare accessible at your fingertips! 🌍🩺💡🗣💬
 
 ## 🌐 Multilingual Chatbot
