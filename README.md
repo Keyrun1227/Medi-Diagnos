@@ -68,7 +68,7 @@ The project relies on several Python libraries and frameworks, including TensorF
 
 
 
-##🌟 Acknowledgments
+## 🌟 Acknowledgments
 Special thanks to the developers and contributors of the libraries and frameworks used in this project. The success of Medi-Assistant is attributed to the vibrant open-source community.
 
 Feel free to contribute, provide feedback, or report issues to enhance the capabilities of Medi-Assistant.
