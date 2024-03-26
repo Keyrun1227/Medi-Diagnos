@@ -66,10 +66,7 @@ The project structure includes Django views for medical predictions, language tr
 
 The project relies on several Python libraries and frameworks, including TensorFlow, Django, Keras, XGBoost, Transformers, and more. Ensure that the necessary dependencies are installed before running the project.
 
-```bash
-pip install -r requirements.txt
 
-```
 
 ##🌟 Acknowledgments
 Special thanks to the developers and contributors of the libraries and frameworks used in this project. The success of Medi-Assistant is attributed to the vibrant open-source community.
