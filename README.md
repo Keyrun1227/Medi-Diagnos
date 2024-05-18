@@ -32,7 +32,7 @@ The frontend is designed to facilitate seamless communication, allowing users to
 - **Frameworks:** Django, TensorFlow, Keras, Scikit-learn
 - **Libraries:** NumPy, Pandas, OpenCV, PIL, Transformers, XGBoost
 - **Frontend:** HTML, CSS, JavaScript
-- **Deployment:** Docker, Heroku
+
 
 ## 🤖 Chatbot Operation
 
